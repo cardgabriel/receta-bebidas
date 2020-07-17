@@ -12,5 +12,5 @@ Se utilizo la API: www.thecocktaildb.com
 
 ### ¿Como correr la app?
 - Clonar o descargar repositorio
-- yarn start`
+- `yarn start`
 
