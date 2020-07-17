@@ -1,6 +1,7 @@
 ## Recetas de bebidas
-Esta app permite buscar ,por categoria o ingrediente, una gran de recetas de bebidas.
-Se utilizo la API: www.thecocktaildb.com
+- Link de la app: recetariodebebidas.netlify.app
+- Esta app permite buscar ,por categoria o ingrediente, una gran de recetas de bebidas.
+- Se utilizo la API: www.thecocktaildb.com
  
 ### Tecnologias
 
